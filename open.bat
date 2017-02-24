@@ -1,0 +1,1 @@
+@powershell -executionpolicy bypass -noexit -nologo -file ./scrack.ps1
